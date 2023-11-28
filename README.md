@@ -1,4 +1,4 @@
-## <p align="center">👋 Ciao! Benvenuto sul mio profilo GitHub. </p>
+# <p align="center">👋 Ciao! Benvenuto sul mio profilo GitHub. </p>
 
 <p align="center">Ciao sono [Thomas Molteni](https://github.com/thomasmolteni), un principiante dall'Italia. Mi piace sviluppare per il puro piacere che comporta, sia che si tratti di programmare bot Discord a plugin Java di Minecraft. Ogni progetto è per me un incredibile viaggio. </p>
 
